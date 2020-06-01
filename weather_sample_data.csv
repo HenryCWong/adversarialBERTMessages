@@ -1,4 +1,4 @@
-,temperature,outlook,wind,humidity
+temperature,outlook,wind,humidity
 0,40,cloudy,E,14
 1,51,partly cloudy,SE,95
 2,47,severe_thunderstorm,SE,88
