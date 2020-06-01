@@ -1,0 +1,501 @@
+,temperature,outlook,wind,humidity
+0,40,cloudy,E,14
+1,51,partly cloudy,SE,95
+2,47,severe_thunderstorm,SE,88
+3,45,thunderstorm,W,35
+4,43,sunny,SE,33
+5,47,sunny,SW,2
+6,60,sunny,N,61
+7,45,thunderstorm,N,45
+8,51,severe_thunderstorm,N,49
+9,56,sunny,SE,85
+10,46,partly cloudy,W,84
+11,52,partly cloudy,W,43
+12,50,cloudy,S,78
+13,45,severe_thunderstorm,N,46
+14,53,rain,S,47
+15,56,cloudy,SE,28
+16,60,partly cloudy,N,93
+17,46,cloudy,SW,20
+18,45,cloudy,NW,74
+19,45,thunderstorm,NW,21
+20,60,partly cloudy,N,83
+21,60,cloudy,NW,7
+22,56,sunny,NE,85
+23,54,rain,None,69
+24,40,thunderstorm,NE,92
+25,42,cloudy,S,72
+26,53,cloudy,N,52
+27,55,partly cloudy,NE,64
+28,48,thunderstorm,W,85
+29,51,cloudy,NE,38
+30,42,rain,SE,74
+31,52,rain,None,75
+32,47,sunny,E,44
+33,56,sunny,S,82
+34,52,rain,E,70
+35,59,severe_thunderstorm,W,80
+36,59,sunny,None,88
+37,42,partly cloudy,W,86
+38,41,thunderstorm,NW,48
+39,57,rain,N,95
+40,46,cloudy,N,36
+41,45,thunderstorm,NW,42
+42,50,sunny,None,31
+43,54,thunderstorm,S,36
+44,41,cloudy,SW,95
+45,59,rain,NE,18
+46,56,partly cloudy,W,17
+47,53,severe_thunderstorm,NW,91
+48,48,partly cloudy,E,98
+49,55,severe_thunderstorm,None,64
+50,42,thunderstorm,N,59
+51,55,severe_thunderstorm,None,46
+52,41,severe_thunderstorm,N,63
+53,40,severe_thunderstorm,None,9
+54,45,thunderstorm,N,35
+55,56,partly cloudy,N,77
+56,50,cloudy,SW,36
+57,58,thunderstorm,W,3
+58,51,thunderstorm,E,90
+59,60,partly cloudy,E,91
+60,47,rain,N,55
+61,43,thunderstorm,NE,36
+62,49,thunderstorm,None,67
+63,58,severe_thunderstorm,SE,15
+64,52,partly cloudy,SW,79
+65,46,severe_thunderstorm,None,91
+66,60,cloudy,N,27
+67,52,thunderstorm,S,49
+68,53,partly cloudy,W,66
+69,49,partly cloudy,NE,7
+70,44,rain,None,68
+71,59,thunderstorm,NW,53
+72,42,cloudy,N,8
+73,56,thunderstorm,S,54
+74,49,rain,S,37
+75,45,severe_thunderstorm,SW,40
+76,59,severe_thunderstorm,S,45
+77,52,thunderstorm,S,49
+78,40,severe_thunderstorm,E,91
+79,52,cloudy,SW,43
+80,60,thunderstorm,None,77
+81,60,partly cloudy,SW,18
+82,51,severe_thunderstorm,N,87
+83,48,thunderstorm,NW,82
+84,44,rain,E,57
+85,45,thunderstorm,SE,79
+86,57,partly cloudy,SE,63
+87,53,partly cloudy,W,39
+88,41,thunderstorm,SW,61
+89,57,severe_thunderstorm,S,21
+90,50,thunderstorm,N,23
+91,50,cloudy,SW,80
+92,41,cloudy,SE,49
+93,45,sunny,NE,27
+94,60,partly cloudy,NE,61
+95,41,sunny,SW,41
+96,58,cloudy,SW,66
+97,48,sunny,NW,41
+98,56,thunderstorm,N,39
+99,41,thunderstorm,None,44
+100,52,partly cloudy,S,48
+101,58,cloudy,None,90
+102,42,severe_thunderstorm,SE,75
+103,51,partly cloudy,None,99
+104,53,severe_thunderstorm,NE,72
+105,49,thunderstorm,NE,52
+106,47,severe_thunderstorm,NW,1
+107,40,rain,N,29
+108,43,cloudy,W,100
+109,41,cloudy,N,82
+110,40,cloudy,None,87
+111,43,sunny,E,34
+112,45,cloudy,N,68
+113,42,cloudy,S,82
+114,55,severe_thunderstorm,NE,46
+115,50,severe_thunderstorm,W,4
+116,54,rain,S,66
+117,47,partly cloudy,None,62
+118,41,partly cloudy,None,33
+119,50,sunny,NE,80
+120,58,sunny,SW,35
+121,43,thunderstorm,SW,27
+122,43,severe_thunderstorm,W,2
+123,44,cloudy,SW,46
+124,41,thunderstorm,SW,45
+125,57,partly cloudy,None,0
+126,45,rain,None,17
+127,52,severe_thunderstorm,NE,32
+128,41,thunderstorm,S,85
+129,42,severe_thunderstorm,SW,91
+130,43,sunny,SE,14
+131,44,rain,W,51
+132,47,sunny,SE,25
+133,40,thunderstorm,W,3
+134,47,severe_thunderstorm,N,68
+135,59,thunderstorm,SW,45
+136,40,sunny,N,27
+137,56,sunny,NW,13
+138,60,thunderstorm,NW,90
+139,52,cloudy,NE,24
+140,47,rain,S,15
+141,51,severe_thunderstorm,NE,11
+142,46,thunderstorm,NW,45
+143,54,severe_thunderstorm,E,41
+144,47,cloudy,SE,88
+145,60,severe_thunderstorm,NW,64
+146,46,sunny,None,23
+147,59,thunderstorm,W,79
+148,42,cloudy,None,45
+149,44,sunny,SE,73
+150,41,sunny,W,10
+151,41,cloudy,SW,9
+152,56,rain,None,27
+153,55,partly cloudy,SE,15
+154,49,severe_thunderstorm,N,25
+155,60,partly cloudy,S,64
+156,50,cloudy,NE,49
+157,46,cloudy,W,2
+158,60,cloudy,E,40
+159,53,thunderstorm,SE,9
+160,51,rain,W,24
+161,60,cloudy,NE,100
+162,54,thunderstorm,NW,25
+163,56,thunderstorm,N,78
+164,43,thunderstorm,N,68
+165,45,rain,NW,46
+166,52,thunderstorm,N,31
+167,58,cloudy,SE,38
+168,41,rain,None,90
+169,49,severe_thunderstorm,SE,89
+170,49,rain,N,56
+171,48,sunny,None,44
+172,51,cloudy,None,74
+173,44,cloudy,NW,27
+174,50,rain,S,11
+175,45,severe_thunderstorm,None,51
+176,60,thunderstorm,W,35
+177,59,cloudy,None,7
+178,53,severe_thunderstorm,SW,33
+179,57,rain,SE,53
+180,50,sunny,None,67
+181,51,sunny,None,58
+182,47,partly cloudy,W,6
+183,60,rain,S,41
+184,44,sunny,NW,55
+185,57,sunny,W,16
+186,44,severe_thunderstorm,NE,74
+187,49,sunny,E,97
+188,43,sunny,SE,70
+189,46,severe_thunderstorm,SW,1
+190,43,rain,E,34
+191,45,partly cloudy,E,79
+192,53,rain,SE,18
+193,55,partly cloudy,SE,48
+194,58,partly cloudy,SE,38
+195,44,sunny,None,8
+196,48,partly cloudy,NW,22
+197,40,partly cloudy,NE,47
+198,48,rain,SW,35
+199,47,severe_thunderstorm,SW,56
+200,54,thunderstorm,NW,1
+201,42,sunny,E,69
+202,41,severe_thunderstorm,S,81
+203,58,cloudy,None,16
+204,52,cloudy,S,25
+205,59,thunderstorm,SE,31
+206,41,rain,None,54
+207,54,rain,S,34
+208,52,partly cloudy,NW,64
+209,57,severe_thunderstorm,SW,68
+210,44,rain,SE,27
+211,54,thunderstorm,NE,8
+212,41,cloudy,N,6
+213,59,thunderstorm,SW,3
+214,50,partly cloudy,NE,17
+215,48,partly cloudy,E,90
+216,45,rain,SW,99
+217,41,thunderstorm,NE,68
+218,41,sunny,SE,85
+219,45,severe_thunderstorm,SE,30
+220,44,partly cloudy,E,23
+221,56,partly cloudy,N,14
+222,54,severe_thunderstorm,N,5
+223,43,cloudy,SW,20
+224,42,rain,None,5
+225,45,severe_thunderstorm,S,6
+226,41,partly cloudy,N,68
+227,59,sunny,E,3
+228,41,severe_thunderstorm,W,12
+229,40,cloudy,N,4
+230,54,severe_thunderstorm,NW,53
+231,44,partly cloudy,None,32
+232,52,thunderstorm,NE,4
+233,50,rain,None,72
+234,52,partly cloudy,None,34
+235,45,rain,NE,47
+236,44,severe_thunderstorm,None,66
+237,44,partly cloudy,SE,11
+238,43,sunny,NE,62
+239,60,severe_thunderstorm,NW,46
+240,57,sunny,W,74
+241,60,rain,N,90
+242,50,partly cloudy,SW,72
+243,47,thunderstorm,E,42
+244,45,thunderstorm,None,16
+245,49,cloudy,NE,40
+246,41,partly cloudy,N,21
+247,44,severe_thunderstorm,W,32
+248,50,sunny,None,17
+249,41,thunderstorm,S,7
+250,49,severe_thunderstorm,SE,12
+251,53,rain,SW,85
+252,49,partly cloudy,NE,5
+253,50,severe_thunderstorm,E,39
+254,56,sunny,E,23
+255,54,thunderstorm,S,47
+256,48,severe_thunderstorm,SW,82
+257,58,partly cloudy,NW,21
+258,55,thunderstorm,NE,89
+259,53,rain,N,30
+260,55,severe_thunderstorm,S,1
+261,45,partly cloudy,NE,69
+262,50,cloudy,W,94
+263,55,thunderstorm,SE,25
+264,54,thunderstorm,NE,28
+265,60,cloudy,S,99
+266,57,rain,N,38
+267,54,sunny,N,44
+268,49,cloudy,None,8
+269,53,rain,SW,10
+270,48,thunderstorm,W,5
+271,49,rain,N,70
+272,45,sunny,W,88
+273,51,partly cloudy,N,95
+274,46,thunderstorm,SE,62
+275,44,thunderstorm,S,11
+276,57,severe_thunderstorm,NW,91
+277,56,sunny,SE,47
+278,41,sunny,S,78
+279,41,cloudy,SE,98
+280,43,severe_thunderstorm,NE,19
+281,51,partly cloudy,NE,98
+282,40,severe_thunderstorm,NE,26
+283,40,severe_thunderstorm,S,23
+284,43,sunny,None,0
+285,42,rain,NE,23
+286,42,rain,NE,51
+287,42,cloudy,None,34
+288,53,thunderstorm,S,51
+289,54,severe_thunderstorm,NW,67
+290,53,sunny,NE,11
+291,58,severe_thunderstorm,N,73
+292,52,thunderstorm,SE,87
+293,54,rain,SW,2
+294,49,cloudy,S,90
+295,42,sunny,W,91
+296,47,thunderstorm,E,8
+297,55,thunderstorm,NE,1
+298,53,cloudy,SW,2
+299,55,sunny,SW,59
+300,42,sunny,SE,70
+301,50,severe_thunderstorm,SW,62
+302,42,severe_thunderstorm,N,99
+303,44,rain,NW,60
+304,55,partly cloudy,E,79
+305,52,cloudy,S,48
+306,57,thunderstorm,S,30
+307,42,sunny,None,55
+308,57,severe_thunderstorm,N,22
+309,46,thunderstorm,SW,69
+310,55,cloudy,W,81
+311,42,partly cloudy,N,33
+312,46,sunny,SE,80
+313,40,severe_thunderstorm,NW,26
+314,40,sunny,None,84
+315,50,rain,SW,35
+316,41,thunderstorm,N,20
+317,56,thunderstorm,NE,67
+318,50,cloudy,E,99
+319,60,sunny,NE,41
+320,52,thunderstorm,W,91
+321,43,sunny,SW,52
+322,41,thunderstorm,NW,39
+323,57,cloudy,SE,64
+324,45,cloudy,E,49
+325,46,sunny,SE,30
+326,45,cloudy,N,31
+327,59,cloudy,SE,52
+328,50,sunny,SW,17
+329,43,cloudy,E,96
+330,41,sunny,NE,11
+331,59,partly cloudy,E,69
+332,46,partly cloudy,NW,97
+333,42,cloudy,S,70
+334,46,cloudy,SW,15
+335,46,partly cloudy,SE,35
+336,55,sunny,S,35
+337,60,rain,S,17
+338,49,sunny,None,18
+339,53,rain,SW,75
+340,54,sunny,W,89
+341,53,thunderstorm,SW,71
+342,60,cloudy,SW,42
+343,42,cloudy,NW,94
+344,41,thunderstorm,NE,65
+345,41,partly cloudy,None,21
+346,43,severe_thunderstorm,W,67
+347,58,thunderstorm,SW,11
+348,53,severe_thunderstorm,NE,37
+349,58,severe_thunderstorm,N,68
+350,59,rain,SW,72
+351,50,thunderstorm,None,88
+352,41,sunny,NW,100
+353,50,thunderstorm,W,64
+354,41,sunny,None,86
+355,58,partly cloudy,None,84
+356,52,rain,N,76
+357,57,thunderstorm,SW,15
+358,52,thunderstorm,None,82
+359,52,cloudy,E,22
+360,40,severe_thunderstorm,W,10
+361,50,severe_thunderstorm,NE,7
+362,51,thunderstorm,NW,30
+363,55,partly cloudy,NW,1
+364,55,partly cloudy,E,86
+365,44,partly cloudy,NW,58
+366,57,rain,NW,0
+367,47,rain,W,59
+368,45,severe_thunderstorm,S,95
+369,58,cloudy,NW,0
+370,42,severe_thunderstorm,SE,42
+371,60,partly cloudy,S,84
+372,59,severe_thunderstorm,SW,23
+373,59,partly cloudy,E,72
+374,48,severe_thunderstorm,NE,78
+375,48,thunderstorm,E,97
+376,48,rain,W,43
+377,52,rain,E,40
+378,55,thunderstorm,SE,73
+379,44,cloudy,None,11
+380,51,sunny,S,35
+381,49,cloudy,W,21
+382,44,rain,SW,22
+383,50,partly cloudy,W,60
+384,54,rain,NE,36
+385,60,rain,SW,49
+386,60,rain,N,19
+387,45,thunderstorm,S,26
+388,49,severe_thunderstorm,SW,12
+389,50,partly cloudy,SW,86
+390,59,severe_thunderstorm,E,49
+391,50,cloudy,W,36
+392,59,rain,SE,60
+393,53,partly cloudy,SE,90
+394,50,cloudy,S,65
+395,57,rain,W,7
+396,52,partly cloudy,NE,35
+397,56,severe_thunderstorm,SW,88
+398,53,cloudy,NE,36
+399,41,partly cloudy,NE,46
+400,46,thunderstorm,NW,88
+401,54,cloudy,NE,26
+402,52,severe_thunderstorm,SW,49
+403,48,rain,W,93
+404,43,sunny,SW,4
+405,42,thunderstorm,N,74
+406,52,severe_thunderstorm,S,20
+407,56,sunny,N,91
+408,54,cloudy,SW,54
+409,60,severe_thunderstorm,S,85
+410,42,thunderstorm,SE,66
+411,50,cloudy,NE,60
+412,42,severe_thunderstorm,NW,81
+413,53,severe_thunderstorm,None,25
+414,60,severe_thunderstorm,W,18
+415,45,cloudy,NW,61
+416,59,partly cloudy,None,29
+417,58,thunderstorm,NW,51
+418,58,sunny,N,41
+419,41,partly cloudy,NE,79
+420,54,severe_thunderstorm,W,59
+421,58,severe_thunderstorm,E,1
+422,50,severe_thunderstorm,SE,90
+423,41,thunderstorm,N,41
+424,44,thunderstorm,None,89
+425,40,cloudy,E,47
+426,43,severe_thunderstorm,SE,94
+427,53,partly cloudy,None,68
+428,59,severe_thunderstorm,NW,73
+429,53,sunny,S,99
+430,44,cloudy,SE,14
+431,44,severe_thunderstorm,N,22
+432,43,cloudy,NE,49
+433,40,severe_thunderstorm,W,50
+434,40,severe_thunderstorm,NE,89
+435,53,severe_thunderstorm,E,92
+436,57,cloudy,None,74
+437,51,partly cloudy,NW,23
+438,59,severe_thunderstorm,E,35
+439,45,rain,NE,69
+440,54,cloudy,SE,69
+441,40,sunny,N,78
+442,51,cloudy,None,97
+443,58,rain,N,2
+444,41,rain,E,6
+445,56,sunny,SE,76
+446,52,partly cloudy,SE,3
+447,51,severe_thunderstorm,SW,84
+448,59,thunderstorm,NE,54
+449,55,rain,NW,82
+450,50,sunny,S,85
+451,58,rain,W,79
+452,49,sunny,SW,84
+453,41,severe_thunderstorm,S,96
+454,51,sunny,S,53
+455,46,sunny,S,100
+456,45,sunny,W,27
+457,51,cloudy,S,31
+458,55,sunny,SW,29
+459,54,thunderstorm,W,40
+460,41,rain,SE,4
+461,52,rain,NW,99
+462,49,rain,None,33
+463,40,cloudy,NW,0
+464,50,sunny,NE,24
+465,55,partly cloudy,NE,49
+466,47,sunny,E,11
+467,43,rain,SW,63
+468,53,partly cloudy,SW,15
+469,46,severe_thunderstorm,SE,21
+470,55,cloudy,S,51
+471,46,cloudy,S,6
+472,58,sunny,NE,41
+473,48,thunderstorm,SW,72
+474,48,rain,NE,54
+475,51,cloudy,NE,8
+476,49,cloudy,N,15
+477,57,thunderstorm,SE,42
+478,46,partly cloudy,W,53
+479,59,rain,W,76
+480,41,cloudy,SW,64
+481,46,sunny,N,56
+482,41,partly cloudy,W,96
+483,53,severe_thunderstorm,E,77
+484,43,cloudy,W,6
+485,60,cloudy,S,31
+486,52,partly cloudy,None,13
+487,60,thunderstorm,SE,58
+488,45,cloudy,NW,50
+489,46,cloudy,E,73
+490,57,thunderstorm,SE,64
+491,60,rain,SE,71
+492,42,partly cloudy,N,3
+493,60,rain,NE,97
+494,44,sunny,E,37
+495,40,partly cloudy,W,17
+496,60,severe_thunderstorm,N,97
+497,59,severe_thunderstorm,NW,19
+498,58,severe_thunderstorm,SW,50
+499,47,severe_thunderstorm,S,66
