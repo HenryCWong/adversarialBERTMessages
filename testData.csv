@@ -1,0 +1,887 @@
+,0,1
+0,"40,cloudy,E,14",0
+1,"51,partly cloudy,SE,95",0
+2,"47,severe_thunderstorm,SE,88",0
+3,"45,thunderstorm,W,35",0
+4,"43,sunny,SE,33",0
+5,"47,sunny,SW,2",0
+6,"60,sunny,N,61",0
+7,"45,thunderstorm,N,45",0
+8,"51,severe_thunderstorm,N,49",0
+9,"56,sunny,SE,85",0
+10,"46,partly cloudy,W,84",0
+11,"52,partly cloudy,W,43",0
+12,"50,cloudy,S,78",0
+13,"45,severe_thunderstorm,N,46",0
+14,"53,rain,S,47",0
+15,"56,cloudy,SE,28",0
+16,"60,partly cloudy,N,93",0
+17,"46,cloudy,SW,20",0
+18,"45,cloudy,NW,74",0
+19,"45,thunderstorm,NW,21",0
+20,"60,partly cloudy,N,83",0
+21,"60,cloudy,NW,7",0
+22,"56,sunny,NE,85",0
+23,"54,rain,None,69",0
+24,"40,thunderstorm,NE,92",0
+25,"42,cloudy,S,72",0
+26,"53,cloudy,N,52",0
+27,"55,partly cloudy,NE,64",0
+28,"48,thunderstorm,W,85",0
+29,"51,cloudy,NE,38",0
+30,"42,rain,SE,74",0
+31,"52,rain,None,75",0
+32,"47,sunny,E,44",0
+33,"56,sunny,S,82",0
+34,"52,rain,E,70",0
+35,"59,severe_thunderstorm,W,80",0
+36,"59,sunny,None,88",0
+37,"42,partly cloudy,W,86",0
+38,"41,thunderstorm,NW,48",0
+39,"57,rain,N,95",0
+40,"46,cloudy,N,36",0
+41,"45,thunderstorm,NW,42",0
+42,"50,sunny,None,31",0
+43,"54,thunderstorm,S,36",0
+44,"41,cloudy,SW,95",0
+45,"59,rain,NE,18",0
+46,"56,partly cloudy,W,17",0
+47,"53,severe_thunderstorm,NW,91",0
+48,"48,partly cloudy,E,98",0
+49,"55,severe_thunderstorm,None,64",0
+50,"42,thunderstorm,N,59",0
+51,"55,severe_thunderstorm,None,46",0
+52,"41,severe_thunderstorm,N,63",0
+53,"40,severe_thunderstorm,None,9",0
+54,"45,thunderstorm,N,35",0
+55,"56,partly cloudy,N,77",0
+56,"50,cloudy,SW,36",0
+57,"58,thunderstorm,W,3",0
+58,"51,thunderstorm,E,90",0
+59,"60,partly cloudy,E,91",0
+60,"47,rain,N,55",0
+61,"43,thunderstorm,NE,36",0
+62,"49,thunderstorm,None,67",0
+63,"58,severe_thunderstorm,SE,15",0
+64,"52,partly cloudy,SW,79",0
+65,"46,severe_thunderstorm,None,91",0
+66,"60,cloudy,N,27",0
+67,"52,thunderstorm,S,49",0
+68,"53,partly cloudy,W,66",0
+69,"49,partly cloudy,NE,7",0
+70,"44,rain,None,68",0
+71,"59,thunderstorm,NW,53",0
+72,"42,cloudy,N,8",0
+73,"56,thunderstorm,S,54",0
+74,"49,rain,S,37",0
+75,"45,severe_thunderstorm,SW,40",0
+76,"59,severe_thunderstorm,S,45",0
+77,"52,thunderstorm,S,49",0
+78,"40,severe_thunderstorm,E,91",0
+79,"52,cloudy,SW,43",0
+80,"60,thunderstorm,None,77",0
+81,"60,partly cloudy,SW,18",0
+82,"51,severe_thunderstorm,N,87",0
+83,"48,thunderstorm,NW,82",0
+84,"44,rain,E,57",0
+85,"45,thunderstorm,SE,79",0
+86,"57,partly cloudy,SE,63",0
+87,"53,partly cloudy,W,39",0
+88,"41,thunderstorm,SW,61",0
+89,"57,severe_thunderstorm,S,21",0
+90,"50,thunderstorm,N,23",0
+91,"50,cloudy,SW,80",0
+92,"41,cloudy,SE,49",0
+93,"45,sunny,NE,27",0
+94,"60,partly cloudy,NE,61",0
+95,"41,sunny,SW,41",0
+96,"58,cloudy,SW,66",0
+97,"48,sunny,NW,41",0
+98,"56,thunderstorm,N,39",0
+99,"41,thunderstorm,None,44",0
+100,"52,partly cloudy,S,48",0
+101,"58,cloudy,None,90",0
+102,"42,severe_thunderstorm,SE,75",0
+103,"51,partly cloudy,None,99",0
+104,"53,severe_thunderstorm,NE,72",0
+105,"49,thunderstorm,NE,52",0
+106,"47,severe_thunderstorm,NW,1",0
+107,"40,rain,N,29",0
+108,"43,cloudy,W,100",0
+109,"41,cloudy,N,82",0
+110,"40,cloudy,None,87",0
+111,"43,sunny,E,34",0
+112,"45,cloudy,N,68",0
+113,"42,cloudy,S,82",0
+114,"55,severe_thunderstorm,NE,46",0
+115,"50,severe_thunderstorm,W,4",0
+116,"54,rain,S,66",0
+117,"47,partly cloudy,None,62",0
+118,"41,partly cloudy,None,33",0
+119,"50,sunny,NE,80",0
+120,"58,sunny,SW,35",0
+121,"43,thunderstorm,SW,27",0
+122,"43,severe_thunderstorm,W,2",0
+123,"44,cloudy,SW,46",0
+124,"41,thunderstorm,SW,45",0
+125,"57,partly cloudy,None,0",0
+126,"45,rain,None,17",0
+127,"52,severe_thunderstorm,NE,32",0
+128,"41,thunderstorm,S,85",0
+129,"42,severe_thunderstorm,SW,91",0
+130,"43,sunny,SE,14",0
+131,"44,rain,W,51",0
+132,"47,sunny,SE,25",0
+133,"40,thunderstorm,W,3",0
+134,"47,severe_thunderstorm,N,68",0
+135,"59,thunderstorm,SW,45",0
+136,"40,sunny,N,27",0
+137,"56,sunny,NW,13",0
+138,"60,thunderstorm,NW,90",0
+139,"52,cloudy,NE,24",0
+140,"47,rain,S,15",0
+141,"51,severe_thunderstorm,NE,11",0
+142,"46,thunderstorm,NW,45",0
+143,"54,severe_thunderstorm,E,41",0
+144,"47,cloudy,SE,88",0
+145,"60,severe_thunderstorm,NW,64",0
+146,"46,sunny,None,23",0
+147,"59,thunderstorm,W,79",0
+148,"42,cloudy,None,45",0
+149,"44,sunny,SE,73",0
+150,"41,sunny,W,10",0
+151,"41,cloudy,SW,9",0
+152,"56,rain,None,27",0
+153,"55,partly cloudy,SE,15",0
+154,"49,severe_thunderstorm,N,25",0
+155,"60,partly cloudy,S,64",0
+156,"50,cloudy,NE,49",0
+157,"46,cloudy,W,2",0
+158,"60,cloudy,E,40",0
+159,"53,thunderstorm,SE,9",0
+160,"51,rain,W,24",0
+161,"60,cloudy,NE,100",0
+162,"54,thunderstorm,NW,25",0
+163,"56,thunderstorm,N,78",0
+164,"43,thunderstorm,N,68",0
+165,"45,rain,NW,46",0
+166,"52,thunderstorm,N,31",0
+167,"58,cloudy,SE,38",0
+168,"41,rain,None,90",0
+169,"49,severe_thunderstorm,SE,89",0
+170,"49,rain,N,56",0
+171,"48,sunny,None,44",0
+172,"51,cloudy,None,74",0
+173,"44,cloudy,NW,27",0
+174,"50,rain,S,11",0
+175,"45,severe_thunderstorm,None,51",0
+176,"60,thunderstorm,W,35",0
+177,"59,cloudy,None,7",0
+178,"53,severe_thunderstorm,SW,33",0
+179,"57,rain,SE,53",0
+180,"50,sunny,None,67",0
+181,"51,sunny,None,58",0
+182,"47,partly cloudy,W,6",0
+183,"60,rain,S,41",0
+184,"44,sunny,NW,55",0
+185,"57,sunny,W,16",0
+186,"44,severe_thunderstorm,NE,74",0
+187,"49,sunny,E,97",0
+188,"43,sunny,SE,70",0
+189,"46,severe_thunderstorm,SW,1",0
+190,"43,rain,E,34",0
+191,"45,partly cloudy,E,79",0
+192,"53,rain,SE,18",0
+193,"55,partly cloudy,SE,48",0
+194,"58,partly cloudy,SE,38",0
+195,"44,sunny,None,8",0
+196,"48,partly cloudy,NW,22",0
+197,"40,partly cloudy,NE,47",0
+198,"48,rain,SW,35",0
+199,"47,severe_thunderstorm,SW,56",0
+200,"54,thunderstorm,NW,1",0
+201,"42,sunny,E,69",0
+202,"41,severe_thunderstorm,S,81",0
+203,"58,cloudy,None,16",0
+204,"52,cloudy,S,25",0
+205,"59,thunderstorm,SE,31",0
+206,"41,rain,None,54",0
+207,"54,rain,S,34",0
+208,"52,partly cloudy,NW,64",0
+209,"57,severe_thunderstorm,SW,68",0
+210,"44,rain,SE,27",0
+211,"54,thunderstorm,NE,8",0
+212,"41,cloudy,N,6",0
+213,"59,thunderstorm,SW,3",0
+214,"50,partly cloudy,NE,17",0
+215,"48,partly cloudy,E,90",0
+216,"45,rain,SW,99",0
+217,"41,thunderstorm,NE,68",0
+218,"41,sunny,SE,85",0
+219,"45,severe_thunderstorm,SE,30",0
+220,"44,partly cloudy,E,23",0
+221,"56,partly cloudy,N,14",0
+222,"54,severe_thunderstorm,N,5",0
+223,"43,cloudy,SW,20",0
+224,"42,rain,None,5",0
+225,"45,severe_thunderstorm,S,6",0
+226,"41,partly cloudy,N,68",0
+227,"59,sunny,E,3",0
+228,"41,severe_thunderstorm,W,12",0
+229,"40,cloudy,N,4",0
+230,"54,severe_thunderstorm,NW,53",0
+231,"44,partly cloudy,None,32",0
+232,"52,thunderstorm,NE,4",0
+233,"50,rain,None,72",0
+234,"52,partly cloudy,None,34",0
+235,"45,rain,NE,47",0
+236,"44,severe_thunderstorm,None,66",0
+237,"44,partly cloudy,SE,11",0
+238,"43,sunny,NE,62",0
+239,"60,severe_thunderstorm,NW,46",0
+240,"57,sunny,W,74",0
+241,"60,rain,N,90",0
+242,"50,partly cloudy,SW,72",0
+243,"47,thunderstorm,E,42",0
+244,"45,thunderstorm,None,16",0
+245,"49,cloudy,NE,40",0
+246,"41,partly cloudy,N,21",0
+247,"44,severe_thunderstorm,W,32",0
+248,"50,sunny,None,17",0
+249,"41,thunderstorm,S,7",0
+250,"49,severe_thunderstorm,SE,12",0
+251,"53,rain,SW,85",0
+252,"49,partly cloudy,NE,5",0
+253,"50,severe_thunderstorm,E,39",0
+254,"56,sunny,E,23",0
+255,"54,thunderstorm,S,47",0
+256,"48,severe_thunderstorm,SW,82",0
+257,"58,partly cloudy,NW,21",0
+258,"55,thunderstorm,NE,89",0
+259,"53,rain,N,30",0
+260,"55,severe_thunderstorm,S,1",0
+261,"45,partly cloudy,NE,69",0
+262,"50,cloudy,W,94",0
+263,"55,thunderstorm,SE,25",0
+264,"54,thunderstorm,NE,28",0
+265,"60,cloudy,S,99",0
+266,"57,rain,N,38",0
+267,"54,sunny,N,44",0
+268,"49,cloudy,None,8",0
+269,"53,rain,SW,10",0
+270,"48,thunderstorm,W,5",0
+271,"49,rain,N,70",0
+272,"45,sunny,W,88",0
+273,"51,partly cloudy,N,95",0
+274,"46,thunderstorm,SE,62",0
+275,"44,thunderstorm,S,11",0
+276,"57,severe_thunderstorm,NW,91",0
+277,"56,sunny,SE,47",0
+278,"41,sunny,S,78",0
+279,"41,cloudy,SE,98",0
+280,"43,severe_thunderstorm,NE,19",0
+281,"51,partly cloudy,NE,98",0
+282,"40,severe_thunderstorm,NE,26",0
+283,"40,severe_thunderstorm,S,23",0
+284,"43,sunny,None,0",0
+285,"42,rain,NE,23",0
+286,"42,rain,NE,51",0
+287,"42,cloudy,None,34",0
+288,"53,thunderstorm,S,51",0
+289,"54,severe_thunderstorm,NW,67",0
+290,"53,sunny,NE,11",0
+291,"58,severe_thunderstorm,N,73",0
+292,"52,thunderstorm,SE,87",0
+293,"54,rain,SW,2",0
+294,"49,cloudy,S,90",0
+295,"42,sunny,W,91",0
+296,"47,thunderstorm,E,8",0
+297,"55,thunderstorm,NE,1",0
+298,"53,cloudy,SW,2",0
+299,"55,sunny,SW,59",0
+300,"42,sunny,SE,70",0
+301,"50,severe_thunderstorm,SW,62",0
+302,"42,severe_thunderstorm,N,99",0
+303,"44,rain,NW,60",0
+304,"55,partly cloudy,E,79",0
+305,"52,cloudy,S,48",0
+306,"57,thunderstorm,S,30",0
+307,"42,sunny,None,55",0
+308,"57,severe_thunderstorm,N,22",0
+309,"46,thunderstorm,SW,69",0
+310,"55,cloudy,W,81",0
+311,"42,partly cloudy,N,33",0
+312,"46,sunny,SE,80",0
+313,"40,severe_thunderstorm,NW,26",0
+314,"40,sunny,None,84",0
+315,"50,rain,SW,35",0
+316,"41,thunderstorm,N,20",0
+317,"56,thunderstorm,NE,67",0
+318,"50,cloudy,E,99",0
+319,"60,sunny,NE,41",0
+320,"52,thunderstorm,W,91",0
+321,"43,sunny,SW,52",0
+322,"41,thunderstorm,NW,39",0
+323,"57,cloudy,SE,64",0
+324,"45,cloudy,E,49",0
+325,"46,sunny,SE,30",0
+326,"45,cloudy,N,31",0
+327,"59,cloudy,SE,52",0
+328,"50,sunny,SW,17",0
+329,"43,cloudy,E,96",0
+330,"41,sunny,NE,11",0
+331,"59,partly cloudy,E,69",0
+332,"46,partly cloudy,NW,97",0
+333,"42,cloudy,S,70",0
+334,"46,cloudy,SW,15",0
+335,"46,partly cloudy,SE,35",0
+336,"55,sunny,S,35",0
+337,"60,rain,S,17",0
+338,"49,sunny,None,18",0
+339,"53,rain,SW,75",0
+340,"54,sunny,W,89",0
+341,"53,thunderstorm,SW,71",0
+342,"60,cloudy,SW,42",0
+343,"42,cloudy,NW,94",0
+344,"41,thunderstorm,NE,65",0
+345,"41,partly cloudy,None,21",0
+346,"43,severe_thunderstorm,W,67",0
+347,"58,thunderstorm,SW,11",0
+348,"53,severe_thunderstorm,NE,37",0
+349,"58,severe_thunderstorm,N,68",0
+350,"59,rain,SW,72",0
+351,"50,thunderstorm,None,88",0
+352,"41,sunny,NW,100",0
+353,"50,thunderstorm,W,64",0
+354,"41,sunny,None,86",0
+355,"58,partly cloudy,None,84",0
+356,"52,rain,N,76",0
+357,"57,thunderstorm,SW,15",0
+358,"52,thunderstorm,None,82",0
+359,"52,cloudy,E,22",0
+360,"40,severe_thunderstorm,W,10",0
+361,"50,severe_thunderstorm,NE,7",0
+362,"51,thunderstorm,NW,30",0
+363,"55,partly cloudy,NW,1",0
+364,"55,partly cloudy,E,86",0
+365,"44,partly cloudy,NW,58",0
+366,"57,rain,NW,0",0
+367,"47,rain,W,59",0
+368,"45,severe_thunderstorm,S,95",0
+369,"58,cloudy,NW,0",0
+370,"42,severe_thunderstorm,SE,42",0
+371,"60,partly cloudy,S,84",0
+372,"59,severe_thunderstorm,SW,23",0
+373,"59,partly cloudy,E,72",0
+374,"48,severe_thunderstorm,NE,78",0
+375,"48,thunderstorm,E,97",0
+376,"48,rain,W,43",0
+377,"52,rain,E,40",0
+378,"55,thunderstorm,SE,73",0
+379,"44,cloudy,None,11",0
+380,"51,sunny,S,35",0
+381,"49,cloudy,W,21",0
+382,"44,rain,SW,22",0
+383,"50,partly cloudy,W,60",0
+384,"54,rain,NE,36",0
+385,"60,rain,SW,49",0
+386,"60,rain,N,19",0
+387,"45,thunderstorm,S,26",0
+388,"49,severe_thunderstorm,SW,12",0
+389,"50,partly cloudy,SW,86",0
+390,"59,severe_thunderstorm,E,49",0
+391,"50,cloudy,W,36",0
+392,"59,rain,SE,60",0
+393,"53,partly cloudy,SE,90",0
+394,"50,cloudy,S,65",0
+395,"57,rain,W,7",0
+396,"52,partly cloudy,NE,35",0
+397,"56,severe_thunderstorm,SW,88",0
+398,"53,cloudy,NE,36",0
+399,"41,partly cloudy,NE,46",0
+400,"46,thunderstorm,NW,88",0
+401,"54,cloudy,NE,26",0
+402,"52,severe_thunderstorm,SW,49",0
+403,"48,rain,W,93",0
+404,"43,sunny,SW,4",0
+405,"42,thunderstorm,N,74",0
+406,"52,severe_thunderstorm,S,20",0
+407,"56,sunny,N,91",0
+408,"54,cloudy,SW,54",0
+409,"60,severe_thunderstorm,S,85",0
+410,"42,thunderstorm,SE,66",0
+411,"50,cloudy,NE,60",0
+412,"42,severe_thunderstorm,NW,81",0
+413,"53,severe_thunderstorm,None,25",0
+414,"60,severe_thunderstorm,W,18",0
+415,"45,cloudy,NW,61",0
+416,"59,partly cloudy,None,29",0
+417,"58,thunderstorm,NW,51",0
+418,"58,sunny,N,41",0
+419,"41,partly cloudy,NE,79",0
+420,"54,severe_thunderstorm,W,59",0
+421,"58,severe_thunderstorm,E,1",0
+422,"50,severe_thunderstorm,SE,90",0
+423,"41,thunderstorm,N,41",0
+424,"44,thunderstorm,None,89",0
+425,"40,cloudy,E,47",0
+426,"43,severe_thunderstorm,SE,94",0
+427,"53,partly cloudy,None,68",0
+428,"59,severe_thunderstorm,NW,73",0
+429,"53,sunny,S,99",0
+430,"44,cloudy,SE,14",0
+431,"44,severe_thunderstorm,N,22",0
+432,"43,cloudy,NE,49",0
+433,"40,severe_thunderstorm,W,50",0
+434,"40,severe_thunderstorm,NE,89",0
+435,"53,severe_thunderstorm,E,92",0
+436,"57,cloudy,None,74",0
+437,"51,partly cloudy,NW,23",0
+438,"59,severe_thunderstorm,E,35",0
+439,"45,rain,NE,69",0
+440,"54,cloudy,SE,69",0
+441,"40,sunny,N,78",0
+442,"51,cloudy,None,97",0
+443,"58,rain,N,2",0
+444,"41,rain,E,6",0
+445,"56,sunny,SE,76",0
+446,"52,partly cloudy,SE,3",0
+447,"51,severe_thunderstorm,SW,84",0
+448,"59,thunderstorm,NE,54",0
+449,"55,rain,NW,82",0
+450,"50,sunny,S,85",0
+451,"58,rain,W,79",0
+452,"49,sunny,SW,84",0
+453,"41,severe_thunderstorm,S,96",0
+454,"51,sunny,S,53",0
+455,"46,sunny,S,100",0
+456,"45,sunny,W,27",0
+457,"51,cloudy,S,31",0
+458,"55,sunny,SW,29",0
+459,"54,thunderstorm,W,40",0
+460,"41,rain,SE,4",0
+461,"52,rain,NW,99",0
+462,"49,rain,None,33",0
+463,"40,cloudy,NW,0",0
+464,"50,sunny,NE,24",0
+465,"55,partly cloudy,NE,49",0
+466,"47,sunny,E,11",0
+467,"43,rain,SW,63",0
+468,"53,partly cloudy,SW,15",0
+469,"46,severe_thunderstorm,SE,21",0
+470,"55,cloudy,S,51",0
+471,"46,cloudy,S,6",0
+472,"58,sunny,NE,41",0
+473,"48,thunderstorm,SW,72",0
+474,"48,rain,NE,54",0
+475,"51,cloudy,NE,8",0
+476,"49,cloudy,N,15",0
+477,"57,thunderstorm,SE,42",0
+478,"46,partly cloudy,W,53",0
+479,"59,rain,W,76",0
+480,"41,cloudy,SW,64",0
+481,"46,sunny,N,56",0
+482,"41,partly cloudy,W,96",0
+483,"53,severe_thunderstorm,E,77",0
+484,"43,cloudy,W,6",0
+485,"60,cloudy,S,31",0
+486,"52,partly cloudy,None,13",0
+487,"60,thunderstorm,SE,58",0
+488,"45,cloudy,NW,50",0
+489,"46,cloudy,E,73",0
+490,"57,thunderstorm,SE,64",0
+491,"60,rain,SE,71",0
+492,"42,partly cloudy,N,3",0
+493,"60,rain,NE,97",0
+494,"44,sunny,E,37",0
+495,"40,partly cloudy,W,17",0
+496,"60,severe_thunderstorm,N,97",0
+497,"59,severe_thunderstorm,NW,19",0
+498,"58,severe_thunderstorm,SW,50",0
+499,"47,severe_thunderstorm,S,66",0
+411,"49,cloudy,SE,16",1
+136,"38,severe_thunderstorm,S,3",1
+76,"41,severe_thunderstorm,SE,56",1
+319,"44,rain,SE,17",1
+174,"46,thunderstorm,NE,13",1
+371,"58,partly cloudy,NW,43",1
+210,"45,thunderstorm,W,5",1
+235,"40,partly cloudy,S,13",1
+101,"49,severe_thunderstorm,SW,20",1
+346,"41,sunny,NW,48",1
+139,"52,severe_thunderstorm,SW,51",1
+499,"57,rain,NE,41",1
+328,"54,partly cloudy,N,95",1
+96,"52,thunderstorm,NW,32",1
+439,"53,rain,NE,25",1
+261,"42,cloudy,SW,81",1
+23,"41,thunderstorm,N,28",1
+10,"58,thunderstorm,S,64",1
+54,"56,partly cloudy,N,31",1
+209,"45,thunderstorm,W,86",1
+70,"46,partly cloudy,W,26",1
+107,"54,severe_thunderstorm,NE,72",1
+292,"49,thunderstorm,S,40",1
+39,"40,sunny,None,82",1
+327,"41,cloudy,N,42",1
+382,"49,sunny,S,8",1
+451,"41,severe_thunderstorm,NW,84",1
+436,"53,sunny,None,83",1
+88,"43,partly cloudy,S,93",1
+432,"46,cloudy,NE,80",1
+425,"51,sunny,SE,85",1
+260,"41,severe_thunderstorm,SE,24",1
+445,"41,partly cloudy,W,89",1
+120,"51,cloudy,SW,3",1
+25,"40,cloudy,N,30",1
+247,"46,rain,NE,89",1
+281,"44,rain,SW,44",1
+244,"51,partly cloudy,NW,99",1
+429,"54,thunderstorm,N,64",1
+462,"47,thunderstorm,N,18",1
+309,"59,partly cloudy,NE,45",1
+310,"50,cloudy,NW,97",1
+361,"44,severe_thunderstorm,N,20",1
+479,"39,rain,NE,49",1
+110,"51,rain,N,0",1
+486,"58,rain,N,1",1
+363,"59,cloudy,S,51",1
+254,"48,rain,S,42",1
+259,"54,thunderstorm,SW,70",1
+494,"44,rain,NE,56",1
+355,"40,partly cloudy,S,68",1
+199,"60,cloudy,N,82",1
+213,"54,sunny,SW,79",1
+408,"44,sunny,SW,44",1
+332,"55,partly cloudy,S,13",1
+165,"38,rain,SW,17",1
+495,"40,sunny,NW,100",1
+65,"40,partly cloudy,NW,34",1
+141,"59,cloudy,N,45",1
+249,"46,severe_thunderstorm,N,20",1
+305,"59,severe_thunderstorm,NE,56",1
+344,"38,partly cloudy,S,89",1
+481,"56,rain,SW,64",1
+33,"41,rain,W,30",1
+31,"50,severe_thunderstorm,W,96",1
+192,"54,cloudy,N,4",1
+333,"44,thunderstorm,SE,72",1
+3,"49,severe_thunderstorm,S,45",1
+306,"44,sunny,None,81",1
+411,"58,cloudy,None,81",1
+280,"52,thunderstorm,W,60",1
+319,"47,rain,None,5",1
+210,"43,cloudy,SE,1",1
+139,"43,partly cloudy,E,70",1
+499,"52,thunderstorm,N,65",1
+328,"53,cloudy,SW,74",1
+277,"51,severe_thunderstorm,NE,79",1
+439,"39,cloudy,SE,40",1
+30,"52,sunny,NE,66",1
+54,"50,cloudy,E,67",1
+275,"42,cloudy,NE,46",1
+327,"51,rain,N,74",1
+218,"59,thunderstorm,SW,20",1
+351,"41,sunny,S,69",1
+168,"51,cloudy,N,53",1
+432,"41,partly cloudy,SE,73",1
+184,"43,partly cloudy,NE,29",1
+294,"50,thunderstorm,SE,68",1
+425,"51,partly cloudy,E,80",1
+237,"39,rain,S,10",1
+445,"48,partly cloudy,SE,65",1
+265,"49,rain,N,69",1
+215,"49,rain,N,42",1
+44,"53,severe_thunderstorm,NE,55",1
+244,"42,rain,SE,71",1
+158,"41,severe_thunderstorm,E,0",1
+462,"47,severe_thunderstorm,SE,71",1
+309,"41,severe_thunderstorm,N,37",1
+298,"43,partly cloudy,N,84",1
+310,"54,partly cloudy,SE,20",1
+363,"50,rain,S,40",1
+494,"40,thunderstorm,N,46",1
+365,"51,partly cloudy,S,2",1
+199,"53,thunderstorm,SW,44",1
+408,"40,partly cloudy,NE,61",1
+332,"51,sunny,W,69",1
+208,"40,rain,None,86",1
+495,"52,partly cloudy,S,59",1
+331,"43,rain,SW,47",1
+249,"50,cloudy,S,20",1
+305,"56,severe_thunderstorm,N,41",1
+350,"41,partly cloudy,NE,13",1
+33,"58,cloudy,NE,66",1
+31,"52,rain,SW,23",1
+333,"41,rain,SW,97",1
+3,"41,thunderstorm,NE,41",1
+306,"45,rain,NW,9",1
+84,"43,thunderstorm,NE,81",1
+286,"40,rain,NW,45",1
+76,"42,thunderstorm,S,24",1
+319,"45,thunderstorm,N,82",1
+174,"50,sunny,W,76",1
+210,"50,thunderstorm,N,86",1
+235,"40,sunny,NW,28",1
+370,"44,partly cloudy,SW,40",1
+59,"38,cloudy,W,25",1
+328,"43,cloudy,None,8",1
+96,"46,cloudy,NW,25",1
+439,"49,cloudy,S,51",1
+30,"43,sunny,NE,32",1
+10,"48,cloudy,W,10",1
+221,"51,sunny,SE,40",1
+296,"50,thunderstorm,NE,5",1
+54,"40,rain,S,65",1
+493,"47,rain,NE,69",1
+307,"45,thunderstorm,SW,80",1
+66,"56,sunny,None,81",1
+382,"55,thunderstorm,SW,6",1
+436,"50,rain,E,8",1
+88,"45,severe_thunderstorm,SE,8",1
+63,"40,cloudy,None,16",1
+351,"50,partly cloudy,W,90",1
+168,"47,thunderstorm,SW,80",1
+184,"46,thunderstorm,SW,97",1
+260,"44,rain,W,45",1
+445,"49,thunderstorm,W,23",1
+25,"49,severe_thunderstorm,NE,30",1
+247,"49,sunny,NE,66",1
+281,"45,partly cloudy,NW,11",1
+462,"43,thunderstorm,SW,91",1
+479,"58,cloudy,SW,85",1
+486,"51,cloudy,NE,98",1
+363,"59,rain,NE,5",1
+254,"54,partly cloudy,W,25",1
+259,"41,thunderstorm,E,52",1
+494,"42,rain,SW,69",1
+377,"50,partly cloudy,SE,0",1
+137,"42,sunny,SE,26",1
+408,"55,cloudy,SW,88",1
+165,"40,rain,SW,2",1
+249,"51,sunny,SE,20",1
+305,"49,cloudy,NE,90",1
+49,"38,thunderstorm,NE,90",1
+2,"45,partly cloudy,SW,44",1
+344,"41,severe_thunderstorm,SW,31",1
+31,"41,thunderstorm,N,70",1
+231,"43,rain,NE,81",1
+192,"54,severe_thunderstorm,S,20",1
+3,"40,thunderstorm,E,72",1
+109,"41,sunny,NE,18",1
+430,"47,rain,NE,80",1
+286,"45,thunderstorm,NW,75",1
+411,"43,cloudy,N,59",1
+136,"56,sunny,None,10",1
+76,"56,severe_thunderstorm,NW,32",1
+280,"51,rain,SW,59",1
+371,"48,thunderstorm,S,45",1
+235,"50,partly cloudy,W,79",1
+346,"54,rain,N,70",1
+499,"60,thunderstorm,N,43",1
+370,"40,sunny,S,21",1
+328,"60,severe_thunderstorm,N,74",1
+221,"42,cloudy,S,40",1
+107,"60,partly cloudy,NE,18",1
+493,"48,sunny,SW,48",1
+292,"60,partly cloudy,S,100",1
+39,"60,partly cloudy,None,92",1
+307,"60,rain,None,57",1
+275,"43,thunderstorm,SW,43",1
+318,"60,sunny,SW,80",1
+382,"57,sunny,SW,23",1
+218,"41,severe_thunderstorm,NE,47",1
+432,"41,severe_thunderstorm,E,25",1
+184,"50,rain,NW,30",1
+260,"38,cloudy,None,79",1
+265,"53,thunderstorm,SE,12",1
+25,"42,thunderstorm,S,13",1
+244,"51,thunderstorm,NE,74",1
+321,"54,sunny,N,43",1
+429,"43,sunny,SW,16",1
+309,"57,partly cloudy,SW,1",1
+60,"43,cloudy,S,28",1
+298,"52,severe_thunderstorm,NE,53",1
+361,"53,partly cloudy,E,65",1
+110,"43,severe_thunderstorm,W,54",1
+486,"53,partly cloudy,N,27",1
+254,"42,rain,SW,8",1
+494,"49,partly cloudy,E,20",1
+137,"59,cloudy,SW,41",1
+355,"43,severe_thunderstorm,SW,81",1
+365,"42,sunny,None,95",1
+408,"59,thunderstorm,NE,28",1
+78,"45,partly cloudy,SE,26",1
+495,"48,sunny,SE,37",1
+65,"53,partly cloudy,NE,69",1
+141,"58,thunderstorm,SE,5",1
+249,"54,partly cloudy,S,21",1
+305,"57,partly cloudy,N,52",1
+350,"51,severe_thunderstorm,SW,31",1
+33,"56,severe_thunderstorm,SW,91",1
+31,"48,severe_thunderstorm,E,25",1
+192,"40,rain,None,99",1
+333,"47,severe_thunderstorm,N,68",1
+3,"53,severe_thunderstorm,SW,5",1
+430,"60,severe_thunderstorm,N,14",1
+286,"43,partly cloudy,SE,58",1
+411,"47,severe_thunderstorm,None,18",1
+136,"52,partly cloudy,NE,47",1
+76,"45,severe_thunderstorm,None,60",1
+319,"53,partly cloudy,SE,37",1
+210,"51,partly cloudy,S,37",1
+235,"43,partly cloudy,S,30",1
+101,"46,sunny,SW,25",1
+346,"49,partly cloudy,W,80",1
+139,"56,cloudy,S,29",1
+370,"46,thunderstorm,NW,68",1
+59,"58,severe_thunderstorm,S,20",1
+312,"50,cloudy,E,100",1
+299,"44,severe_thunderstorm,W,2",1
+439,"43,partly cloudy,NE,56",1
+30,"60,partly cloudy,S,19",1
+10,"55,severe_thunderstorm,SE,47",1
+221,"39,severe_thunderstorm,SE,82",1
+54,"54,thunderstorm,None,11",1
+209,"55,partly cloudy,NE,76",1
+292,"54,thunderstorm,NE,22",1
+289,"37,cloudy,None,21",1
+39,"55,sunny,NE,52",1
+275,"57,cloudy,S,8",1
+67,"50,cloudy,N,82",1
+327,"38,rain,SE,45",1
+382,"37,severe_thunderstorm,W,80",1
+218,"41,cloudy,NE,99",1
+436,"58,rain,NE,74",1
+168,"47,cloudy,NW,26",1
+86,"55,severe_thunderstorm,SE,55",1
+432,"45,sunny,NE,32",1
+294,"42,severe_thunderstorm,NE,22",1
+425,"60,sunny,NE,5",1
+237,"45,partly cloudy,S,46",1
+445,"57,severe_thunderstorm,SE,90",1
+265,"41,severe_thunderstorm,NW,77",1
+120,"42,severe_thunderstorm,N,12",1
+25,"58,sunny,NE,30",1
+72,"52,severe_thunderstorm,NE,72",1
+44,"38,thunderstorm,S,40",1
+158,"50,severe_thunderstorm,None,19",1
+429,"47,severe_thunderstorm,NW,12",1
+462,"53,thunderstorm,SE,65",1
+60,"51,cloudy,SE,75",1
+298,"51,sunny,SE,100",1
+314,"51,severe_thunderstorm,SE,10",1
+310,"51,thunderstorm,S,16",1
+486,"43,thunderstorm,SE,90",1
+363,"58,thunderstorm,SE,44",1
+254,"49,partly cloudy,NE,83",1
+494,"59,partly cloudy,SW,69",1
+365,"52,severe_thunderstorm,SE,53",1
+199,"40,severe_thunderstorm,NE,98",1
+408,"50,rain,SW,29",1
+332,"40,severe_thunderstorm,NE,58",1
+78,"60,cloudy,E,66",1
+29,"49,cloudy,None,41",1
+165,"41,partly cloudy,SE,11",1
+495,"50,partly cloudy,SE,67",1
+331,"60,cloudy,NE,57",1
+249,"49,thunderstorm,None,43",1
+305,"57,severe_thunderstorm,None,57",1
+2,"53,cloudy,SW,58",1
+481,"54,cloudy,E,18",1
+33,"54,severe_thunderstorm,W,65",1
+31,"41,thunderstorm,E,44",1
+231,"44,sunny,NE,47",1
+204,"49,severe_thunderstorm,SE,64",1
+77,"57,severe_thunderstorm,None,32",1
+84,"37,cloudy,SW,86",1
+76,"47,thunderstorm,NE,85",1
+280,"49,thunderstorm,NE,27",1
+174,"53,cloudy,S,35",1
+371,"45,cloudy,SW,29",1
+235,"54,severe_thunderstorm,W,72",1
+101,"48,cloudy,None,55",1
+370,"48,sunny,SE,49",1
+59,"54,severe_thunderstorm,SE,68",1
+328,"58,thunderstorm,NW,69",1
+261,"54,partly cloudy,N,22",1
+23,"44,cloudy,SW,82",1
+30,"46,thunderstorm,S,79",1
+54,"51,rain,NW,30",1
+70,"41,severe_thunderstorm,SW,59",1
+107,"49,sunny,W,24",1
+39,"51,severe_thunderstorm,SE,43",1
+318,"44,sunny,S,46",1
+382,"54,thunderstorm,SW,78",1
+436,"48,severe_thunderstorm,E,9",1
+168,"55,severe_thunderstorm,NE,2",1
+294,"41,severe_thunderstorm,NE,3",1
+425,"52,thunderstorm,E,68",1
+237,"57,severe_thunderstorm,NW,52",1
+265,"51,partly cloudy,E,21",1
+55,"45,partly cloudy,SE,56",1
+215,"58,severe_thunderstorm,SW,78",1
+25,"46,cloudy,S,67",1
+72,"50,severe_thunderstorm,N,56",1
+44,"58,rain,W,6",1
+247,"57,severe_thunderstorm,SE,80",1
+321,"48,severe_thunderstorm,NE,37",1
+158,"50,cloudy,E,37",1
+298,"57,thunderstorm,None,3",1
+314,"53,sunny,None,3",1
+361,"58,rain,S,65",1
+110,"50,cloudy,NE,28",1
+486,"48,cloudy,None,74",1
+259,"53,thunderstorm,N,10",1
+355,"48,thunderstorm,N,3",1
+365,"46,rain,E,53",1
+199,"58,partly cloudy,SE,10",1
+408,"48,cloudy,SW,79",1
+208,"45,cloudy,E,9",1
+78,"41,rain,S,4",1
+165,"53,rain,NE,33",1
+495,"43,severe_thunderstorm,SE,45",1
+65,"48,severe_thunderstorm,N,40",1
+141,"44,partly cloudy,NW,2",1
+249,"48,thunderstorm,NE,72",1
+350,"45,cloudy,SW,90",1
+481,"44,partly cloudy,N,72",1
+33,"50,thunderstorm,NE,48",1
+31,"46,sunny,SW,10",1
+333,"44,rain,NW,28",1
+3,"45,sunny,S,8",1
+306,"46,cloudy,None,38",1
+411,"47,sunny,SE,82",1
+210,"54,severe_thunderstorm,SE,92",1
+499,"46,severe_thunderstorm,SE,14",1
+312,"51,thunderstorm,NE,79",1
+23,"50,thunderstorm,W,90",1
+275,"41,thunderstorm,NE,45",1
+67,"43,cloudy,None,32",1
+318,"49,sunny,S,27",1
+327,"43,partly cloudy,SE,73",1
+218,"52,severe_thunderstorm,NE,53",1
+88,"49,sunny,None,17",1
+351,"58,severe_thunderstorm,N,43",1
+86,"41,sunny,None,43",1
+184,"40,thunderstorm,N,9",1
+237,"50,rain,NW,9",1
+120,"58,severe_thunderstorm,N,43",1
+25,"41,cloudy,S,63",1
+462,"51,partly cloudy,SE,70",1
+309,"46,thunderstorm,S,89",1
+298,"56,severe_thunderstorm,SE,38",1
+479,"45,sunny,SE,8",1
+110,"48,cloudy,None,69",1
+137,"47,cloudy,None,28",1
+213,"56,severe_thunderstorm,NE,32",1
+495,"44,cloudy,SW,50",1
+141,"50,severe_thunderstorm,N,60",1
+249,"43,cloudy,N,70",1
+344,"54,thunderstorm,NE,6",1
+31,"43,thunderstorm,NE,62",1
+231,"42,severe_thunderstorm,S,46",1
+192,"50,thunderstorm,NE,8",1
+204,"44,sunny,None,32",1
+306,"40,sunny,NE,79",1
+84,"52,severe_thunderstorm,NE,63",1
